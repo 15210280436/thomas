@@ -1,4 +1,4 @@
-# thomas [![Build Status][travis-image]][travis-url]
+# 王俊峰thomas [![Build Status][travis-image]][travis-url]
 
 > Simple pomodoro timer
 
